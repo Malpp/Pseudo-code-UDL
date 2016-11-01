@@ -1,0 +1,13 @@
+Fonction RemplireMain() retourne tableau entier
+
+    Declarer main tableau d’entier de taille de 7
+
+    Pour compteur de 0 a Aleatoire(2,7)
+
+         Main[compteur] <- Aleatoire(1,13 + 1)
+
+    FinPour
+
+    retourne main
+
+FinFonction
